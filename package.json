@@ -1,0 +1,31 @@
+{
+  "name": "plant-lf-room",
+  "version": "1.0.0",
+  "description": "A matching app to match vegetables of the green kind with rooms or spaces.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thogronen/plant-lf-room.git"
+  },
+  "keywords": [
+    "plant",
+    "room",
+    "green",
+    "flower",
+    "match",
+    "matching"
+  ],
+  "author": "Thomas Groeneweg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thogronen/plant-lf-room/issues"
+  },
+  "homepage": "https://github.com/Thogronen/plant-lf-room#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
